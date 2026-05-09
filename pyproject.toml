@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mohamed-ziena"
+version = "0.1.0"
+description = "Minimal HR management GUI application"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [ { name = "mohamed ziena", email = "mohamedaboziena09@gmail.com" } ]
+keywords = ["hr", "hrms", "gui", "pyqt", "sqlite"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Topic :: Software Development :: User Interfaces",
+]
+dependencies = [
+  "PyQt5>=5.15.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/mohamedaboziena09-design/mohamed-ziena"
+Repository = "https://github.com/mohamedaboziena09-design/mohamed-ziena"
+"Bug Tracker" = "https://github.com/mohamedaboziena09-design/mohamed-ziena/issues"
