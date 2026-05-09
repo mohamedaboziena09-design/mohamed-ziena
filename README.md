@@ -25,3 +25,11 @@ Files
 - `hr_db.py`: SQLite backend
 - `gui.py`: Tkinter GUI
 - `main.py`: app entry
+
+Security & Contributing
+- This project includes a `SECURITY.md`, `CODE_OF_CONDUCT.md`, and
+	`CONTRIBUTORS.md`. To report security issues privately contact
+	mohamedaboziena09@gmail.com or use GitHub security advisories.
+
+License
+- This project is released under the MIT License. See `LICENSE` for details.
