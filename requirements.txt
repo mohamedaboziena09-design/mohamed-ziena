@@ -1,3 +1,10 @@
+PyQt5==5.15.11
+pytest==9.0.3
+pytest-qt==4.5.0
+
+# Optional developer tools
+setuptools>=61.0
+wheel
 # PyQt5 is required for the Qt GUI. Install with:
 # pip install PyQt5
 PyQt5>=5.15.0
