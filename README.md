@@ -1,5 +1,7 @@
 # HR System (Python Tkinter)
 
+[![CI](https://github.com/mohamedaboziena09-design/mohamed-ziena/actions/workflows/ci.yml/badge.svg)](https://github.com/mohamedaboziena09-design/mohamed-ziena/actions)
+
 Minimal HR system GUI using Tkinter and SQLite.
 
 Requirements
